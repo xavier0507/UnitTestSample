@@ -1,16 +1,10 @@
 package com.xy.unittestsample.cases.sample1;
 
-import com.xy.unittestsample.sample1.FileParser;
-
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-
-import static junit.framework.Assert.assertEquals;
-import static junit.framework.Assert.assertTrue;
-import static junit.framework.Assert.fail;
 
 /**
  * Created by Xavier Yin on 12/1/16.
