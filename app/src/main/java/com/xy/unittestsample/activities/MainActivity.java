@@ -1,7 +1,9 @@
-package com.xy.unittestsample;
+package com.xy.unittestsample.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.xy.unittestsample.R;
 
 public class MainActivity extends AppCompatActivity {
 

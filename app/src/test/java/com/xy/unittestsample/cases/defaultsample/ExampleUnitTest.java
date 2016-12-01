@@ -1,4 +1,4 @@
-package com.xy.unittestsample;
+package com.xy.unittestsample.cases.defaultsample;
 
 import org.junit.Test;
 
