@@ -2,8 +2,6 @@ package com.xy.unittestsample.cases.sample2;
 
 import org.junit.Test;
 
-import java.util.Objects;
-
 import static junit.framework.Assert.assertNotNull;
 import static junit.framework.Assert.assertNull;
 
