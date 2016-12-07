@@ -12,7 +12,7 @@ import static org.junit.Assert.assertThat;
  * Created by Xavier Yin on 12/5/16.
  */
 
-public class FileParserTest {
+public class FileParserWithoutParameterConstructorTest {
 
     @Test
     public void testNameShorterCharactersIsValidEvenWithSupportedExtension() throws Exception {
