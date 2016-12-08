@@ -3,8 +3,6 @@ package com.xy.unittestsample.cases.sample6.reflectioninjection;
 import com.xy.unittestsample.cases.sample6.fake.StubExtensionManager;
 import com.xy.unittestsample.sample6.reflectioninjection.FileParserWithReflectionInjection;
 
-import junit.framework.Assert;
-
 import org.junit.Test;
 
 import java.lang.reflect.Field;
